@@ -1,0 +1,4 @@
+name: boxStack
+version: '${version}'
+main: com.topi_banana.boxstack.BoxStack
+api-version: '1.20'
